@@ -15,8 +15,6 @@ window.addEventListener('DOMContentLoaded',
       }, false
     );
     
-    cancel.addEventListener('click',
-      location.href = 'index.html';
-    );
+    
   }, false
 );
